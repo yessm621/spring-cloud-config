@@ -1,5 +1,5 @@
 token:
-  secret: changed-my-very-long-secret-key-1234567999999-hello-world-from-git
+  secret: changed2-my-very-long-secret-key-1234567999999-hello-world-from-git
   expiration-time: 86400000 # 10 days
 
 gateway:

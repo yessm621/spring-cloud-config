@@ -2,5 +2,5 @@ token:
   secret: banana-changed2-my-very-long-secret-key-1234567999999-hello-world-from-git
   expiration-time: 86400000 # 10 days
 
-greeting:
-  message: Welcome to the Simple E-commerce. (config server)
+# greeting:
+#   message: Welcome to the Simple E-commerce. (config server)

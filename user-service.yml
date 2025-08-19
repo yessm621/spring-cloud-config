@@ -3,4 +3,4 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: '{cipher}c7a18fc77dc99873b43af5a88e73d3ef2bac15fac6a65fcbdc53891c091a1f32'
+    password: '{cipher}AYA7ijllgAg3+iH6y2aXwBtHX2FdN/U4S/H4KjMRvSGtdfvdZqLdF6y60NkMJ+05tLNqMa5KYLo7gw5JUoyvRYf5CxSE8rGK1Zu1BCHYpo4KatTRAeCYPu5sC281UWuKbIejvGDvchCWMZ6JAnPYt6jmaFe+GUzrEWJf6kzUwO7zZvqXwAwgMMk8RpIEHWn8799MHNFn9T3qWnrygyoyLEVF8spxzmS/I12ZSpXF4+NIzDe1zQXiD9Q+4l5/J79BTPOjQ2NH5E/PlZLyLanu2Fu/1/Xojx9GPVCqC3VXlxT28CNjFUsCgSxFTlopEwgk5Ludx6CdJOuBXj1FJkdw+AiXaXBqdX/H1NWumW66tFm1gGr5WusHpCjQeYl0RDyvanDsQG0S5tuYeUObayiSLnFNJbVXh10Qa2pMQ9z/qw6VOyWmhwAuZjGzVuNeIMYPXkaDoYFCJrMO7Mb9gMIDRsUzjj+qX4YbmYrkuSujaRj6oS5m6V1FsvBLCJE7yguefJG992qNTWHm5AwQlbWtMhsna2XYe9iYjHhlZyEnc4z9uA=='
